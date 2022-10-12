@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavithra</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Pavithra</h1>
+<h3 align="left">Full stack developer</h3>
 
 - 🌱 I’m currently exploring **Cloud and DevOps**
 
