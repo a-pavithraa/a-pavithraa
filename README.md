@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-pavithraa](https://github.com/a-pavithraa)
 
-- 📫 How to reach me **a.pavithraa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
